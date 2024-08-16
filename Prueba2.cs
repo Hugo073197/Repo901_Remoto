@@ -8,3 +8,4 @@ public class Consulta()
     
   }
 }
+Agrego codigo en prueba2
